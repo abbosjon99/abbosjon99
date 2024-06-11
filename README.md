@@ -19,6 +19,7 @@ Join me on Telegram, where I share insights, victories, and even the occasional 
 
 | CTF | Result | Team | Date |
 |-----|-----|-----|-----|
+|BCACTF 5.0|top 25%|movie43|06/2024|
 |AI CTF|top 23%|movie43|05/2024|
 |BSidesSF CTF|top 10%|movie43|05/2024|
 |CIT@CTF|top 6%|undermouses|04/2024|
