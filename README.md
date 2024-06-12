@@ -13,8 +13,6 @@ Join me on Telegram, where I share insights, victories, and even the occasional 
 
 ## Competitions: 🥇
 
-### Algorithms [LeetCode](https://leetcode.com/sammorozov/)
-
 ### CTF's
 
 | CTF | Result | Team | Date |
@@ -29,7 +27,8 @@ Join me on Telegram, where I share insights, victories, and even the occasional 
 |wolvCTF|top 31%| undermouses|03/2024|
 |osuCTF|top 35%| undermouses |02/2024|
 |ethernautCTF|out of competition|solo|03/2024|
- 
+
+### Algorithms [LeetCode](https://leetcode.com/sammorozov/)
 
 
 ### Working on: 🚀
