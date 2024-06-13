@@ -33,7 +33,7 @@ Join me on Telegram, where I share insights, victories, and even the occasional 
 
 ### Working on: 🚀
 
-- Tweaking this README for optimal engagement 
+- Learning [GO](https://github.com/sammorozov/go_basics_study)
 - [fullstack web3 development course](https://github.com/sammorozov/full_course_crypto_32) 
 - [ethernaut tasks](https://github.com/sammorozov/ethernaut_source_tasks)
 - Various bots and scripts, with results showcased [here](https://t.me/from_the_teapot_to_the_investor)
