@@ -17,7 +17,6 @@ Join me on Telegram, where I share insights, victories, and even the occasional 
 
 | CTF | Result | Team | Date |
 |-----|-----|-----|-----|
-|vsCTF|now|movie43|06/2024|
 |CIT@CTF|top 6%|undermouses|04/2024|
 |BSidesSF CTF|top 10%|movie43|05/2024|
 |swampCTF|top 17%|check_your_mouse |03/2024|
@@ -25,6 +24,7 @@ Join me on Telegram, where I share insights, victories, and even the occasional 
 |Space HeroesCTF| top 23% | check_yor_mom |04/2024|
 |AI CTF|top 23%|movie43|05/2024|
 |BCACTF 5.0|top 25%|movie43|06/2024|
+|vsCTF|top26%|movie43|06/2024|
 |wolvCTF|top 31%| undermouses|03/2024|
 |osuCTF|top 35%| undermouses |02/2024|
 |ethernautCTF|out of competition|solo|03/2024|
