@@ -21,7 +21,7 @@ Join me on Telegram, where I share insights, victories, and even the occasional 
 |BSidesSF CTF|top 10%|movie43|05/2024|
 |swampCTF|top 17%|check_your_mouse |03/2024|
 |vksCTF|top 18%| Solo played |09/2023|
-|Space HeroesCTF| top 23% | check_yor_mom |04/2024|
+|Space HeroesCTF| top 23% | undermouses |04/2024|
 |AI CTF|top 23%|movie43|05/2024|
 |BCACTF 5.0|top 25%|movie43|06/2024|
 |vsCTF|top26%|movie43|06/2024|
