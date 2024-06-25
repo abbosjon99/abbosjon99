@@ -134,9 +134,5 @@ Join me on Telegram, where I share insights, victories, and even the occasional 
 </p>
 
 
-<!--
-### How to reach me :mailbox:
-[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/sam_gyps)
---> 
-I am AI
+
 
