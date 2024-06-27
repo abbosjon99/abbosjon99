@@ -12,7 +12,7 @@ Join me on Telegram, where I share insights, victories, and even the occasional 
 [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/from_the_teapot_to_the_investor)
 
 ## Competitions: 🥇
-
+ 
 ### CTF's
 
 | CTF | Result | Team | Date |
