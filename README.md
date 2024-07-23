@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=abbosjon99&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=abbosjon99&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
   
 ### About Me:    
 I'm a dedicated software engineer currently pursuing a Bachelor's degree in Software Engineering at 42 Warsaw, with a strong foundation in architectural design from my previous studies. I have a passion for developing web applications, and desktop applications and solving complex algorithmic problems. My technical skills include proficiency in languages such as C, C++, Python, Bash, and C#, along with experience in using technologies like Django, FastAPI, PostgreSQL, Bootstrap, HTML, CSS, JavaScript, and Docker.
