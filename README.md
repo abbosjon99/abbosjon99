@@ -18,7 +18,7 @@ Connect with me on LinkedIn or Telegram to stay updated with my latest projects 
 
 ### Working on: 🚀
 
-- Learning [Django REST]([https://github.com/](https://github.com/coronado03/Speculo))
+- [Speculo - Videochat for Language Learners]((https://github.com/coronado03/Speculo))
 - [42 school projects](https://github.com/abbosjon99?tab=repositories) 
 
 
